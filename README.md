@@ -10,5 +10,5 @@ BOM:
 [kicad-kria-jtag.csv](kicad-kria-jtag.csv)
 
 Gerbers:
-[gerbers.zip](https://github.com/s59mz/kicad-kria-jtag/raw/main/gerbers.zip)
+[kicad-kria-jtag.zip](https://github.com/s59mz/kicad-kria-jtag/raw/main/kicad-kria-jtag.zip)
 
